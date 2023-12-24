@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated with a fundamental degree in management information systems and a student in computer engineering. My educational background and personal efforts have allowed me to acquire in-depth knowledge and skills in web development.
+Graduated with a fundamental degree in management information systems and a student in software engineering. My educational background and personal efforts have allowed me to acquire in-depth knowledge and skills in web and mobile development.
 
 
 ## 🌐 Socials:
