@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated with a fundamental degree in management information systems and a student in software engineering. My educational background and personal efforts have allowed me to acquire in-depth knowledge and skills in web and mobile development.
+I graduated in engineering from the Polytechnic School of Sousse, specializing in software engineering with a strong focus on web and mobile development. I am currently seeking professional opportunities that will allow me to apply and deepen the technical skills I have acquired during my studies, internships, and freelance work.
 
 
 ## 🌐 Socials:
